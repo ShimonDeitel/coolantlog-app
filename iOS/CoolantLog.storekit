@@ -1,0 +1,29 @@
+{
+  "identifier": "storekit-config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "prod001",
+      "localizations": [
+        {
+          "description": "Temperature-gauge incident log with service correlation",
+          "displayName": "Coolant Log Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.coolantlog.pro",
+      "referenceName": "Coolant Log Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
